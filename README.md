@@ -1,2 +1,2 @@
 # Open-Data-Workshop
-Resources from the DUWG's open data workshop
+Resources from the Data Utilization Workgroup's (DUWG's) open data workshop.
