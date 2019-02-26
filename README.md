@@ -1,6 +1,3 @@
-# Open-Data-Workshop
-Resources from the Data Utilization Workgroup's (DUWG's) open data workshop.
-
 <img src="https://github.com/InteragencyEcologicalProgram/Open-Data-Workshop/blob/master/images/datajourneyv2.jpg" width="200">
 
 
