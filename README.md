@@ -1,7 +1,8 @@
 # Open-Data-Workshop
 Resources from the Data Utilization Workgroup's (DUWG's) open data workshop.
 
-![DUWG Open Data Logo](https://github.com/InteragencyEcologicalProgram/Open-Data-Workshop/blob/master/images/datajourneyv2.jpg | width = 10)
+![DUWG Open Data Logo](https://github.com/InteragencyEcologicalProgram/Open-Data-Workshop/blob/master/images/datajourneyv2.jpg | width = 10) 
+<img src="https://github.com/InteragencyEcologicalProgram/Open-Data-Workshop/blob/master/images/datajourneyv2.jpg" width="48">
 
 We can use this readme section to make a snazzy looking summary of the materials with links so people can find what they're looking for. Anyone who is familiar with markdown (or anyone who wants to learn) is welcome to start using this space to organize stuff!
 
